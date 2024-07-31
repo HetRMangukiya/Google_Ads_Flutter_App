@@ -1,16 +1,20 @@
-# ads_implement
+# How to Implement Google AdMob in Flutter in 6 Steps
 
-A new Flutter project.
+Welcome to the GitHub repository for the "How to Implement Google AdMob in Flutter in 6 Steps" tutorial! 🎉 In this project, you'll find the complete code and resources used in the video to help you integrate Google AdMob into your Flutter app. Follow along and start monetizing your apps today! 💰
 
-## Getting Started
+## 📹 Watch the Tutorial
+Check out the full video on YouTube to see the step-by-step guide:
+[Watch on YouTube](https://youtu.be/50nCS_7Zbhs)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+Before you begin, make sure you have the following:
+- Flutter SDK
+- A Google AdMob account
+- Basic knowledge of Flutter and Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📧 Contact
+For any questions or feedback, you can reach me at:
+- **Email:** hetp5172@gmail.com
+- **YouTube Channel:** [HR Code Experts](https://www.youtube.com/@HRCodeExperts)
